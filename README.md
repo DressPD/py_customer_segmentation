@@ -1,5 +1,6 @@
 # py_customers_segmentation
 #### python code to perform k-means clustering on consumer base
+- .csv dataset for reproducibility is provided
 
 #### These are the statistical models implemented in the code:
 - Cleaning and Normalizing data for sex identification
